@@ -1,0 +1,125 @@
+/* Base styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f5f5e6;
+  color: #3e3e2c;
+}
+
+.navbar {
+  background: #4e6e4c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1.5rem;
+  height: 60px;
+  box-shadow: 0 2px 8px rgba(60, 60, 40, 0.07);
+}
+
+.navbar a {
+  color: #fffbe6;
+  text-decoration: none;
+  padding: 0.5rem 1.5rem;
+  font-size: 1.1rem;
+  border-radius: 20px;
+  transition: background 0.2s;
+  margin: 0 0.3rem;
+}
+
+.navbar a.active, .navbar a:hover {
+  background: #7b5e3b;
+  color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 2.5rem auto 0 auto;
+  background: #fffbe6;
+  border-radius: 18px;
+  box-shadow: 0 4px 24px rgba(60, 60, 40, 0.08);
+  padding: 2rem 2.5rem;
+}
+
+.section-title {
+  font-size: 2rem;
+  color: #4e6e4c;
+  margin-bottom: 1.5rem;
+  letter-spacing: 1px;
+}
+
+.trail {
+  background: #e6e6d6;
+  border-radius: 14px;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(60, 60, 40, 0.04);
+}
+
+.trail-title {
+  font-size: 1.3rem;
+  color: #3e3e2c;
+  margin-bottom: 0.3rem;
+}
+
+.trail-desc {
+  margin-bottom: 0.5rem;
+  color: #5a5a3a;
+}
+
+.difficulty {
+  display: inline-block;
+  padding: 0.2rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  background: #b7a16a;
+  color: #fffbe6;
+  margin-top: 0.2rem;
+}
+
+.gear-section {
+  font-size: 1.1rem;
+  color: #4e6e4c;
+  background: #e6e6d6;
+  border-radius: 14px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(60, 60, 40, 0.04);
+}
+
+.tips-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.tip-box {
+  background: #e6e6d6;
+  border-radius: 14px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 2px 8px rgba(60, 60, 40, 0.04);
+  color: #4e6e4c;
+  font-size: 1.08rem;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 1.2rem 0.7rem;
+  }
+  .navbar {
+    flex-direction: column;
+    height: auto;
+    padding: 0.5rem 0;
+  }
+  .navbar a {
+    margin: 0.2rem 0;
+    width: 90%;
+    text-align: center;
+  }
+  .section-title {
+    font-size: 1.4rem;
+  }
+  .trail, .gear-section, .tip-box {
+    padding: 1rem 0.7rem;
+  }
+} 

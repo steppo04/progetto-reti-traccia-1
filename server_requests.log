@@ -1,0 +1,202 @@
+2025-05-06 18:58:36 - INFO - Server started on port 8080
+2025-05-06 18:58:36 - INFO - Waiting for new connection...
+2025-05-06 18:59:00 - INFO - Connection accepted from 127.0.0.1:57081
+2025-05-06 18:59:00 - INFO - Request: GET /tips.html from 127.0.0.1:57081
+2025-05-06 18:59:00 - INFO - Response to 127.0.0.1:57081: 200 OK, served tips.html
+2025-05-06 18:59:00 - INFO - Connection closed for 127.0.0.1:57081
+2025-05-06 18:59:00 - INFO - Waiting for new connection...
+2025-05-06 18:59:00 - INFO - Connection accepted from 127.0.0.1:57082
+2025-05-06 18:59:00 - INFO - Request: GET /style.css from 127.0.0.1:57082
+2025-05-06 18:59:00 - INFO - Response to 127.0.0.1:57082: 200 OK, served style.css
+2025-05-06 18:59:00 - INFO - Connection closed for 127.0.0.1:57082
+2025-05-06 18:59:00 - INFO - Waiting for new connection...
+2025-05-06 18:59:00 - INFO - Connection accepted from 127.0.0.1:57083
+2025-05-06 18:59:01 - INFO - Request: GET /tips.html from 127.0.0.1:57083
+2025-05-06 18:59:01 - INFO - Response to 127.0.0.1:57083: 200 OK, served tips.html
+2025-05-06 18:59:01 - INFO - Connection closed for 127.0.0.1:57083
+2025-05-06 18:59:01 - INFO - Waiting for new connection...
+2025-05-06 18:59:01 - INFO - Connection accepted from 127.0.0.1:57085
+2025-05-06 18:59:01 - INFO - Request: GET /style.css from 127.0.0.1:57085
+2025-05-06 18:59:01 - INFO - Response to 127.0.0.1:57085: 200 OK, served style.css
+2025-05-06 18:59:01 - INFO - Connection closed for 127.0.0.1:57085
+2025-05-06 18:59:01 - INFO - Waiting for new connection...
+2025-05-06 18:59:03 - INFO - Connection accepted from 127.0.0.1:57089
+2025-05-06 18:59:03 - INFO - Request: GET /gear.html from 127.0.0.1:57089
+2025-05-06 18:59:03 - INFO - Response to 127.0.0.1:57089: 200 OK, served gear.html
+2025-05-06 18:59:03 - INFO - Connection closed for 127.0.0.1:57089
+2025-05-06 18:59:03 - INFO - Waiting for new connection...
+2025-05-06 18:59:03 - INFO - Connection accepted from 127.0.0.1:57090
+2025-05-06 18:59:03 - INFO - Request: GET /style.css from 127.0.0.1:57090
+2025-05-06 18:59:03 - INFO - Response to 127.0.0.1:57090: 200 OK, served style.css
+2025-05-06 18:59:03 - INFO - Connection closed for 127.0.0.1:57090
+2025-05-06 18:59:03 - INFO - Waiting for new connection...
+2025-05-06 18:59:03 - INFO - Connection accepted from 127.0.0.1:57091
+2025-05-06 18:59:03 - INFO - Request: GET /trails.html from 127.0.0.1:57091
+2025-05-06 18:59:03 - INFO - Response to 127.0.0.1:57091: 200 OK, served trails.html
+2025-05-06 18:59:03 - INFO - Connection closed for 127.0.0.1:57091
+2025-05-06 18:59:03 - INFO - Waiting for new connection...
+2025-05-06 18:59:04 - INFO - Connection accepted from 127.0.0.1:57093
+2025-05-06 18:59:04 - INFO - Request: GET /style.css from 127.0.0.1:57093
+2025-05-06 18:59:04 - INFO - Response to 127.0.0.1:57093: 200 OK, served style.css
+2025-05-06 18:59:04 - INFO - Connection closed for 127.0.0.1:57093
+2025-05-06 18:59:04 - INFO - Waiting for new connection...
+2025-05-06 19:03:31 - INFO - Connection accepted from 127.0.0.1:57154
+2025-05-06 19:03:31 - INFO - Request: GET /gear.html from 127.0.0.1:57154
+2025-05-06 19:03:31 - INFO - Response to 127.0.0.1:57154: 200 OK, served gear.html
+2025-05-06 19:03:31 - INFO - Connection closed for 127.0.0.1:57154
+2025-05-06 19:03:31 - INFO - Waiting for new connection...
+2025-05-06 19:03:31 - INFO - Connection accepted from 127.0.0.1:57155
+2025-05-06 19:03:31 - INFO - Request: GET /style.css from 127.0.0.1:57155
+2025-05-06 19:03:31 - INFO - Response to 127.0.0.1:57155: 200 OK, served style.css
+2025-05-06 19:03:31 - INFO - Connection closed for 127.0.0.1:57155
+2025-05-06 19:03:31 - INFO - Waiting for new connection...
+2025-05-06 19:03:31 - INFO - Connection accepted from 127.0.0.1:57156
+2025-05-06 19:03:32 - INFO - Request: GET /tips.html from 127.0.0.1:57156
+2025-05-06 19:03:32 - INFO - Response to 127.0.0.1:57156: 200 OK, served tips.html
+2025-05-06 19:03:32 - INFO - Connection closed for 127.0.0.1:57156
+2025-05-06 19:03:32 - INFO - Waiting for new connection...
+2025-05-06 19:03:32 - INFO - Connection accepted from 127.0.0.1:57158
+2025-05-06 19:03:32 - INFO - Request: GET /style.css from 127.0.0.1:57158
+2025-05-06 19:03:32 - INFO - Response to 127.0.0.1:57158: 200 OK, served style.css
+2025-05-06 19:03:32 - INFO - Connection closed for 127.0.0.1:57158
+2025-05-06 19:03:32 - INFO - Waiting for new connection...
+2025-05-06 19:04:23 - INFO - Connection accepted from 127.0.0.1:57168
+2025-05-06 19:04:23 - INFO - Request: GET /gear.html from 127.0.0.1:57168
+2025-05-06 19:04:23 - INFO - Response to 127.0.0.1:57168: 200 OK, served gear.html
+2025-05-06 19:04:23 - INFO - Connection closed for 127.0.0.1:57168
+2025-05-06 19:04:23 - INFO - Waiting for new connection...
+2025-05-06 19:04:23 - INFO - Connection accepted from 127.0.0.1:57169
+2025-05-06 19:04:23 - INFO - Request: GET /style.css from 127.0.0.1:57169
+2025-05-06 19:04:23 - INFO - Response to 127.0.0.1:57169: 200 OK, served style.css
+2025-05-06 19:04:23 - INFO - Connection closed for 127.0.0.1:57169
+2025-05-06 19:04:23 - INFO - Waiting for new connection...
+2025-05-06 19:04:23 - INFO - Connection accepted from 127.0.0.1:57170
+2025-05-06 19:04:24 - INFO - Request: GET /trails.html from 127.0.0.1:57170
+2025-05-06 19:04:24 - INFO - Response to 127.0.0.1:57170: 200 OK, served trails.html
+2025-05-06 19:04:24 - INFO - Connection closed for 127.0.0.1:57170
+2025-05-06 19:04:24 - INFO - Waiting for new connection...
+2025-05-06 19:04:24 - INFO - Connection accepted from 127.0.0.1:57172
+2025-05-06 19:04:24 - INFO - Request: GET /style.css from 127.0.0.1:57172
+2025-05-06 19:04:24 - INFO - Response to 127.0.0.1:57172: 200 OK, served style.css
+2025-05-06 19:04:24 - INFO - Connection closed for 127.0.0.1:57172
+2025-05-06 19:04:24 - INFO - Waiting for new connection...
+2025-05-07 09:36:06 - INFO - Server started on port 8080
+2025-05-07 09:36:06 - INFO - Waiting for new connection...
+2025-05-07 09:37:39 - INFO - Connection accepted from 127.0.0.1:58068
+2025-05-07 09:37:39 - INFO - Request: GET /tips.html from 127.0.0.1:58068
+2025-05-07 09:37:39 - INFO - Response to 127.0.0.1:58068: 404 Not Found for /tips.html
+2025-05-07 09:37:39 - INFO - Connection closed for 127.0.0.1:58068
+2025-05-07 09:37:39 - INFO - Waiting for new connection...
+2025-05-07 09:37:39 - INFO - Connection accepted from 127.0.0.1:58069
+2025-05-07 09:37:40 - INFO - Request: GET /tips.html from 127.0.0.1:58069
+2025-05-07 09:37:40 - INFO - Response to 127.0.0.1:58069: 404 Not Found for /tips.html
+2025-05-07 09:37:40 - INFO - Connection closed for 127.0.0.1:58069
+2025-05-07 09:37:40 - INFO - Waiting for new connection...
+2025-05-07 09:37:40 - INFO - Connection accepted from 127.0.0.1:58070
+2025-05-07 09:37:40 - INFO - Request: GET /tips.html from 127.0.0.1:58070
+2025-05-07 09:37:40 - INFO - Response to 127.0.0.1:58070: 404 Not Found for /tips.html
+2025-05-07 09:37:40 - INFO - Connection closed for 127.0.0.1:58070
+2025-05-07 09:37:40 - INFO - Waiting for new connection...
+2025-05-07 09:37:41 - INFO - Connection accepted from 127.0.0.1:58073
+2025-05-07 09:37:41 - INFO - Request: GET /tips.html from 127.0.0.1:58073
+2025-05-07 09:37:41 - INFO - Response to 127.0.0.1:58073: 404 Not Found for /tips.html
+2025-05-07 09:37:41 - INFO - Connection closed for 127.0.0.1:58073
+2025-05-07 09:37:41 - INFO - Waiting for new connection...
+2025-05-07 09:37:42 - INFO - Connection accepted from 127.0.0.1:58078
+2025-05-07 09:37:42 - INFO - Request: GET /tips.html from 127.0.0.1:58078
+2025-05-07 09:37:42 - INFO - Response to 127.0.0.1:58078: 404 Not Found for /tips.html
+2025-05-07 09:37:42 - INFO - Connection closed for 127.0.0.1:58078
+2025-05-07 09:37:42 - INFO - Waiting for new connection...
+2025-05-07 09:37:42 - INFO - Connection accepted from 127.0.0.1:58079
+2025-05-07 09:37:47 - INFO - Request: GET /tips.html from 127.0.0.1:58079
+2025-05-07 09:37:47 - INFO - Response to 127.0.0.1:58079: 404 Not Found for /tips.html
+2025-05-07 09:37:47 - INFO - Connection closed for 127.0.0.1:58079
+2025-05-07 09:37:47 - INFO - Waiting for new connection...
+2025-05-07 09:37:47 - INFO - Connection accepted from 127.0.0.1:58080
+2025-05-07 09:37:47 - INFO - Request: GET /tips.html from 127.0.0.1:58080
+2025-05-07 09:37:47 - INFO - Response to 127.0.0.1:58080: 404 Not Found for /tips.html
+2025-05-07 09:37:47 - INFO - Connection closed for 127.0.0.1:58080
+2025-05-07 09:37:47 - INFO - Waiting for new connection...
+2025-05-07 09:37:48 - INFO - Connection accepted from 127.0.0.1:58084
+2025-05-07 09:37:55 - INFO - Request: GET /tips.html from 127.0.0.1:58084
+2025-05-07 09:37:55 - INFO - Response to 127.0.0.1:58084: 404 Not Found for /tips.html
+2025-05-07 09:37:55 - INFO - Connection closed for 127.0.0.1:58084
+2025-05-07 09:37:55 - INFO - Waiting for new connection...
+2025-05-07 09:37:55 - INFO - Connection accepted from 127.0.0.1:58093
+2025-05-07 09:37:55 - INFO - Request: GET /tips.html from 127.0.0.1:58093
+2025-05-07 09:37:55 - INFO - Response to 127.0.0.1:58093: 404 Not Found for /tips.html
+2025-05-07 09:37:55 - INFO - Connection closed for 127.0.0.1:58093
+2025-05-07 09:37:55 - INFO - Waiting for new connection...
+2025-05-07 09:37:55 - INFO - Connection accepted from 127.0.0.1:58094
+2025-05-07 09:38:33 - WARNING - Empty request from 127.0.0.1:58094, connection closed
+2025-05-07 09:38:33 - INFO - Connection closed for 127.0.0.1:58094
+2025-05-07 09:38:33 - INFO - Waiting for new connection...
+2025-05-07 09:38:33 - INFO - Connection accepted from 127.0.0.1:58096
+2025-05-07 09:38:33 - WARNING - Empty request from 127.0.0.1:58096, connection closed
+2025-05-07 09:38:33 - INFO - Connection closed for 127.0.0.1:58096
+2025-05-07 09:38:33 - INFO - Waiting for new connection...
+2025-05-07 09:40:01 - INFO - Connection accepted from 127.0.0.1:58153
+2025-05-07 09:40:01 - INFO - Request: GET /trails.html from 127.0.0.1:58153
+2025-05-07 09:40:01 - INFO - Response to 127.0.0.1:58153: 404 Not Found for /trails.html
+2025-05-07 09:40:01 - INFO - Connection closed for 127.0.0.1:58153
+2025-05-07 09:40:01 - INFO - Waiting for new connection...
+2025-05-07 09:40:01 - INFO - Connection accepted from 127.0.0.1:58154
+2025-05-07 09:40:01 - INFO - Request: GET /favicon.ico from 127.0.0.1:58154
+2025-05-07 09:40:01 - INFO - Response to 127.0.0.1:58154: 404 Not Found for /favicon.ico
+2025-05-07 09:40:01 - INFO - Connection closed for 127.0.0.1:58154
+2025-05-07 09:40:01 - INFO - Waiting for new connection...
+2025-05-07 09:40:01 - INFO - Connection accepted from 127.0.0.1:58155
+2025-05-07 09:40:16 - INFO - Request: GET /www/trails.html from 127.0.0.1:58155
+2025-05-07 09:40:16 - INFO - Response to 127.0.0.1:58155: 200 OK, served www/trails.html
+2025-05-07 09:40:16 - INFO - Connection closed for 127.0.0.1:58155
+2025-05-07 09:40:16 - INFO - Waiting for new connection...
+2025-05-07 09:40:16 - INFO - Connection accepted from 127.0.0.1:58164
+2025-05-07 09:40:16 - INFO - Request: GET /www/style.css from 127.0.0.1:58164
+2025-05-07 09:40:16 - INFO - Response to 127.0.0.1:58164: 200 OK, served www/style.css
+2025-05-07 09:40:16 - INFO - Connection closed for 127.0.0.1:58164
+2025-05-07 09:40:16 - INFO - Waiting for new connection...
+2025-05-07 09:41:57 - INFO - Connection accepted from 127.0.0.1:58178
+2025-05-07 09:41:57 - INFO - Request: GET /www/gear.html from 127.0.0.1:58178
+2025-05-07 09:41:57 - INFO - Response to 127.0.0.1:58178: 200 OK, served www/gear.html
+2025-05-07 09:41:57 - INFO - Connection closed for 127.0.0.1:58178
+2025-05-07 09:41:57 - INFO - Waiting for new connection...
+2025-05-07 09:41:57 - INFO - Connection accepted from 127.0.0.1:58179
+2025-05-07 09:41:57 - INFO - Request: GET /www/style.css from 127.0.0.1:58179
+2025-05-07 09:41:57 - INFO - Response to 127.0.0.1:58179: 200 OK, served www/style.css
+2025-05-07 09:41:57 - INFO - Connection closed for 127.0.0.1:58179
+2025-05-07 09:41:57 - INFO - Waiting for new connection...
+2025-05-07 09:41:57 - INFO - Connection accepted from 127.0.0.1:58180
+2025-05-07 09:41:58 - INFO - Request: GET /www/tips.html from 127.0.0.1:58180
+2025-05-07 09:41:58 - INFO - Response to 127.0.0.1:58180: 200 OK, served www/tips.html
+2025-05-07 09:41:58 - INFO - Connection closed for 127.0.0.1:58180
+2025-05-07 09:41:58 - INFO - Waiting for new connection...
+2025-05-07 09:41:58 - INFO - Connection accepted from 127.0.0.1:58182
+2025-05-07 09:41:58 - INFO - Request: GET /www/style.css from 127.0.0.1:58182
+2025-05-07 09:41:58 - INFO - Response to 127.0.0.1:58182: 200 OK, served www/style.css
+2025-05-07 09:41:58 - INFO - Connection closed for 127.0.0.1:58182
+2025-05-07 09:41:58 - INFO - Waiting for new connection...
+2025-05-07 09:41:59 - INFO - Connection accepted from 127.0.0.1:58186
+2025-05-07 09:41:59 - INFO - Request: GET /www/trails.html from 127.0.0.1:58186
+2025-05-07 09:41:59 - INFO - Response to 127.0.0.1:58186: 200 OK, served www/trails.html
+2025-05-07 09:41:59 - INFO - Connection closed for 127.0.0.1:58186
+2025-05-07 09:41:59 - INFO - Waiting for new connection...
+2025-05-07 09:41:59 - INFO - Connection accepted from 127.0.0.1:58187
+2025-05-07 09:41:59 - INFO - Request: GET /www/style.css from 127.0.0.1:58187
+2025-05-07 09:41:59 - INFO - Response to 127.0.0.1:58187: 200 OK, served www/style.css
+2025-05-07 09:41:59 - INFO - Connection closed for 127.0.0.1:58187
+2025-05-07 09:41:59 - INFO - Waiting for new connection...
+2025-05-07 09:41:59 - INFO - Connection accepted from 127.0.0.1:58188
+2025-05-07 09:43:23 - WARNING - Empty request from 127.0.0.1:58188, connection closed
+2025-05-07 09:43:23 - INFO - Connection closed for 127.0.0.1:58188
+2025-05-07 09:43:23 - INFO - Waiting for new connection...
+2025-05-07 09:49:46 - INFO - Connection accepted from 127.0.0.1:58289
+2025-05-07 09:49:46 - INFO - Request: GET /trails.html from 127.0.0.1:58289
+2025-05-07 09:49:46 - INFO - Response to 127.0.0.1:58289: 404 Not Found for /trails.html
+2025-05-07 09:49:46 - INFO - Connection closed for 127.0.0.1:58289
+2025-05-07 09:49:46 - INFO - Waiting for new connection...
+2025-05-07 09:49:46 - INFO - Connection accepted from 127.0.0.1:58290
+2025-05-07 09:49:48 - INFO - Request: GET /trails.html from 127.0.0.1:58290
+2025-05-07 09:49:48 - INFO - Response to 127.0.0.1:58290: 404 Not Found for /trails.html
+2025-05-07 09:49:48 - INFO - Connection closed for 127.0.0.1:58290
+2025-05-07 09:49:48 - INFO - Waiting for new connection...
+2025-05-07 09:49:48 - INFO - Connection accepted from 127.0.0.1:58291
